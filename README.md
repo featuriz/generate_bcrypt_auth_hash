@@ -1,6 +1,8 @@
+https://github.com/featuriz/generate_bcrypt_auth_hash
+
 # htpasswd-go 🔐
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/htpasswd-go)](https://goreportcard.com/report/github.com/yourusername/htpasswd-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/featuriz/generate_bcrypt_auth_hash)](https://goreportcard.com/report/github.com/featuriz/generate_bcrypt_auth_hash)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight, zero-dependency CLI tool written in Go to securely generate and verify `bcrypt` hashes for Basic Authentication (`.htpasswd` files).
@@ -19,7 +21,7 @@ Perfect for securing Nginx, Traefik, or Caddy reverse proxies without needing to
 If you have Go installed, you can easily install the binary globally:
 
 ```bash
-go install [github.com/yourusername/htpasswd-go@latest](https://github.com/yourusername/htpasswd-go@latest)
+go install [github.com/featuriz/generate_bcrypt_auth_hash@latest](https://github.com/featuriz/generate_bcrypt_auth_hash@latest)
 
 ```
 
