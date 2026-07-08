@@ -1,5 +1,3 @@
-https://github.com/featuriz/generate_bcrypt_auth_hash
-
 # htpasswd-go 🔐
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/featuriz/generate_bcrypt_auth_hash)](https://goreportcard.com/report/github.com/featuriz/generate_bcrypt_auth_hash)
